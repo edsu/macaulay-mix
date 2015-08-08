@@ -1,0 +1,33 @@
+<!doctype html>
+<html>
+  <body>
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script>
+
+      $(function(){
+        var maxId = 16128;
+        //var maxId = 148984;
+        var audioId = Math.floor(Math.random() * maxId);
+
+        function addTrack() {
+          audioId += 1;
+          var prefix = Math.floor(audioId / 10000);
+          var url = "http://animalrecordings.org/Audio/" + prefix + "/" + audioId + ".mp3";
+          var a = document.createElement("audio");
+          a.src = url;
+          a.play();
+          // skip forward 15 seconds to avoid 
+          a.currentTime += 15.0;
+          $(a).on("load", function() {
+            console.log(a.duration);
+          });
+          console.log(url);
+          $(a).on("ended", addTrack);
+        }
+
+        addTrack();
+      });
+    </script>
+
+  </body>
+</html>
