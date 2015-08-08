@@ -1,32 +1,107 @@
 <!doctype html>
 <html>
+
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css"></link>
+    <title>Continuous player for Macauley Library</title>
+    <style>
+      .track {
+        border: thin solid #eeeeee;
+        padding: 10px;
+        margin-top: 20px;
+      }
+
+      .track header {
+        font-weight: bold;
+      }
+    </style>
+  </head>
+
   <body>
+
+    <div class="container">
+
+      <div class="col-lg-4 col-lg-offset-4">
+
+        <h2 class="text-center">Macauley Libary Mix</h2>
+
+        <hr>
+
+        <p>
+        The <a href="http://macaulaylibrary.org/">Macaulay Library</a> 
+        is the world's largest and oldest scientific
+        archive of biodiversity audio and video recordings.
+        <em>And it's all on the Web!</em>
+        </p>
+
+        <p>The page you are looking at uses HTML5 audio support to provide a
+        constant random stream of the Macauley audio. Build an ecosystem of your own by using the <em>Add Animal</em> button below.
+        </p>
+
+        <div>
+          <button id="addTrack">Add Animal</button>
+        </div>
+
+        <div id="tracks"></div>
+
+      </div>
+
+    </div>
+
     <script src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script>
+      var numTracks = 0;
+      //var maxId = 148984;
+      var maxId = 16128;
+      var skipIntro = true;
 
-      $(function(){
-        var maxId = 16128;
-        //var maxId = 148984;
+      function addTrack() {
+        numTracks += 1;
+        $("#tracks").append('<article class="track" id="track-' + numTracks + '"><header></header></article>');
+        console.log($("#tracks"));
+        changeTrack(numTracks);
+      }
+
+      function changeTrack(trackId) {
         var audioId = Math.floor(Math.random() * maxId);
+        var prefix = Math.floor(audioId / 10000);
+        var url = "http://animalrecordings.org/Audio/" + prefix + "/" + audioId + ".mp3";
+        console.log(url);
 
-        function addTrack() {
-          audioId += 1;
-          var prefix = Math.floor(audioId / 10000);
-          var url = "http://animalrecordings.org/Audio/" + prefix + "/" + audioId + ".mp3";
-          var a = document.createElement("audio");
-          a.src = url;
-          a.play();
-          // skip forward 15 seconds to avoid 
+        var a = document.createElement("audio");
+        a.src = url;
+        a.controls = true;
+        a.play();
+
+        if (skipIntro) {
           a.currentTime += 15.0;
-          $(a).on("load", function() {
-            console.log(a.duration);
-          });
-          console.log(url);
-          $(a).on("ended", addTrack);
         }
 
+        $(a).on("ended", function() {
+          changeTrack(trackId);
+        });
+
+        $.getJSON("data" + "/" + prefix + "/" + audioId + ".json", function(data) {
+          var track = $("#track-" + trackId);
+          track.empty();
+          track.append('<header>' + '<a href="http://macaulaylibrary.org/audio/' + audioId + '">' + data.title + '</a></header>');
+          track.append(data.geography);
+          track.append('<br>');
+          track.append(data.locality);
+          track.append('<br>');
+          track.append(a);
+        }).fail(function() {
+          changeTrack(trackId);
+        });
+
+      }
+
+      $(function() {
+        $("#addTrack").on("click", addTrack);
         addTrack();
       });
+
     </script>
 
   </body>
