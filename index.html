@@ -107,10 +107,14 @@
           var track = $("#track-" + trackId);
           track.empty();
           track.append('<header>' + '<a href="http://macaulaylibrary.org/audio/' + audioId + '">' + data.title + '</a></header>');
-          track.append(data.geography);
-          track.append('<br>');
-          track.append(data.locality);
-          track.append('<br>');
+          if (data.geography) {
+            track.append(data.geography);
+            track.append('<br>');
+          }
+          if (data.locality) {
+            track.append(data.locality);
+            track.append('<br>');
+          }
           track.append('<br>');
           track.append(a);
         }).fail(function() {
