@@ -8,13 +8,18 @@ import urllib
 
 from bs4 import BeautifulSoup
 
-id = 0
+id = 41290
 
 while True:
     id += 1
     print(id)
+
     url = "http://macaulaylibrary.org/audio/%s" % id
-    doc = BeautifulSoup(urllib.urlopen(url), 'xml')
+    try:
+        doc = BeautifulSoup(urllib.urlopen(url), 'xml')
+    except IOError:
+        id -= 1
+        continue
 
     title = doc.find('meta', {'property': 'og:title'})
     if not title and id < 148984:
