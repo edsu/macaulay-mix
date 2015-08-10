@@ -8,7 +8,7 @@ import urllib
 
 from bs4 import BeautifulSoup
 
-id = 41290
+id = 41769
 
 while True:
     id += 1
@@ -25,7 +25,9 @@ while True:
     if not title and id < 148984:
         continue
 
-    title = title['content'].split(':', 1)[1].strip()
+    title = title['content'].strip()
+    if ':' in title:
+        title = title.split(':', 1)[1].strip()
     data = {"title": title, "url": url}
 
     for d in doc.find_all('ul', {'class': 'datas'}):

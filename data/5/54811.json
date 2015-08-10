@@ -1,0 +1,13 @@
+{
+  "microphones": "Sennheiser MKH 20", 
+  "locality": "5.0 km NE of research station.", 
+  "url": "http://macaulaylibrary.org/audio/54811", 
+  "title": "Snowy Owl", 
+  "recorders": "NAGRA ARES-BB+", 
+  "channels": "Stereo", 
+  "equipment_note": "Remote mic, MS stereo, decoded through soundBlade. We set up a blind 70 feet from nest.", 
+  "bit_depth": "24-bit", 
+  "habitats": "Arctic Tundra", 
+  "sampling_rate": "48kHz", 
+  "geography": "Canada Nunavut"
+}
