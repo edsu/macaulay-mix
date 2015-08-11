@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "34.878058 -119.3417788", 
+  "microphones": "Telinga Pro 8", 
+  "locality": "Valle Vista Campground, Los Padres NP.", 
+  "url": "http://macaulaylibrary.org/audio/88773", 
+  "title": "Lawrence's Goldfinch", 
+  "recorders": "NAGRA ARES-BB+", 
+  "accessories": "Telinga Parabola 54.7cm/15.5cm (21.5in/6.1in)", 
+  "channels": "Mono", 
+  "equipment_note": "File format setting on Nagra ARES-BB+: Mono.", 
+  "bit_depth": "24-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California San Bernardino County"
+}
