@@ -1,0 +1,11 @@
+{
+  "latitude/longitude": "44.2576 -71.2537", 
+  "locality": "Mount Washington; Pinkham Notch Trail", 
+  "url": "http://macaulaylibrary.org/audio/148416", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Spaced Omni Stereo; DPA 4060 Omnidirectional Microphones", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States New Hampshire Coos County"
+}

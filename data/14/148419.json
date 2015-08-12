@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "4.15 25.16667", 
+  "microphones": "Sennheiser MKH 30", 
+  "recording_timecode": "56:50 - 1:15:30", 
+  "locality": "Near Bili", 
+  "url": "http://macaulaylibrary.org/audio/148419", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "DR Congo Orientale"
+}

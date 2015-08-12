@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "-15.84333 -70.02361", 
+  "locality": "Near Puno", 
+  "url": "http://macaulaylibrary.org/audio/148403", 
+  "title": "Interview", 
+  "recorders": "SONY TCD-D8", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Neumann RSM 190 through Sonosax SX-M2 preamp into Sony TCDD8", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Peru Puno"
+}

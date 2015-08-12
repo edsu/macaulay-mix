@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "30.24782 -89.76586", 
+  "microphones": "Sennheiser MKH 30", 
+  "recording_timecode": "1:03:04 - 1:42:25", 
+  "locality": "Hampton Inn Slidell", 
+  "url": "http://macaulaylibrary.org/audio/147698", 
+  "title": "Environmental Recording", 
+  "recorders": "SONY TCD-D8", 
+  "channels": "Stereo", 
+  "equipment_note": "Decoded MS stereo, subject 1. DPA 4060 omni mics, subject 2.", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Louisiana St. Tammany County"
+}

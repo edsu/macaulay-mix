@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "-14.78694 -70.35389", 
+  "microphones": "Sennheiser MKH 30", 
+  "recording_timecode": "7:39 - 1:21:06", 
+  "locality": "Near Asillo", 
+  "url": "http://macaulaylibrary.org/audio/148405", 
+  "title": "Andean Goose", 
+  "recorders": "SONY TCD-D8", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH50 Hypercardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax SX-M2 preamp into Sony TCDD8", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Peru Puno"
+}

@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "42.023 35.15", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Black Sea", 
+  "url": "http://macaulaylibrary.org/audio/148434", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Decoded MS Stereo; Split track with KMR-81 between 21:57 and 38:12", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Turkey Sinop"
+}

@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "-13.61667 -71.71472", 
+  "recording_timecode": "59:09 - 1:24:20", 
+  "locality": "Pikillacta", 
+  "url": "http://macaulaylibrary.org/audio/148401", 
+  "title": "Environmental Recording", 
+  "recorders": "SONY TCD-D8", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Neumann RSM 190 through Sonosax SX-M2 preamp into Sony TCDD8", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Peru Cuzco [Cusco]"
+}

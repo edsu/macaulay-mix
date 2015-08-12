@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "-27.49778 153.01278", 
+  "microphones": "Sennheiser MKH 30", 
+  "recording_timecode": "23:53 - 1:30:59", 
+  "locality": "Brisbane; University of Queensland", 
+  "url": "http://macaulaylibrary.org/audio/147622", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Australia Queensland"
+}

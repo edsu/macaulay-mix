@@ -1,0 +1,11 @@
+{
+  "latitude/longitude": "37.7701 -122.4664083", 
+  "locality": "California Academy of the Sciences", 
+  "url": "http://macaulaylibrary.org/audio/148427", 
+  "title": "Interview", 
+  "channels": "Mono", 
+  "equipment_note": "Two-channel Mono until 1:14:21; Split Track after 1:14:21", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California San Francisco County"
+}

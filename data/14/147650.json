@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "55.35 -131.67333", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Ketchikan", 
+  "url": "http://macaulaylibrary.org/audio/147650", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Alaska Ketchikan Gateway County"
+}

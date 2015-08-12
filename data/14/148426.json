@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "5.0333333 25.1333333", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Zemio", 
+  "url": "http://macaulaylibrary.org/audio/148426", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "DPA 4060 Spaced Omnis until 25:43; Decoded MS Stereo after 25:43", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Central African Republic Haut-Mbomou"
+}

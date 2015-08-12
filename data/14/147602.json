@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "20.70972 -156.25333", 
+  "microphones": "Sennheiser MKH 40", 
+  "locality": "Haleakala volcano", 
+  "url": "http://macaulaylibrary.org/audio/147602", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Hawaii Maui County"
+}

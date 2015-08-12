@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "38.93108 -77.04973", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Smithsonian National Zoological Park", 
+  "url": "http://macaulaylibrary.org/audio/147609", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Split track", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States District of Columbia"
+}

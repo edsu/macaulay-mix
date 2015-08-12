@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "-33.85997 151.21111", 
+  "microphones": "Sennheiser MKH 30", 
+  "recording_timecode": "16:14 - 58:34", 
+  "locality": "Sydney", 
+  "url": "http://macaulaylibrary.org/audio/147620", 
+  "title": "Koala", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Stereo, Neumann KMR 81", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Australia New South Wales"
+}

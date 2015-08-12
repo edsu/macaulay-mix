@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "-12.12167 -77.02972", 
+  "recording_timecode": "55:58 - 1:03:26", 
+  "locality": "Lima; Iglesia Medalla Milagrosa", 
+  "url": "http://macaulaylibrary.org/audio/148400", 
+  "title": "Environmental Recording", 
+  "recorders": "SONY TCD-D8", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Neumann RSM 190 through Sonosax SX-M2 preamp into Sony TCDD8", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Peru Lima"
+}
