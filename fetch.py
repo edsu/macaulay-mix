@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 
+"""
+For collecting information about audio available from the Macaulay Library.
+This script and the data directory could be removed if they offered an 
+API of some kind that provides json-p or CORS access.
+"""
+
 import os
 import re
 import json
@@ -8,7 +14,7 @@ import urllib
 
 from bs4 import BeautifulSoup
 
-id = 41769
+id = 0
 
 while True:
     id += 1
