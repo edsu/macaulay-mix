@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "31.77778 35.23042", 
+  "recording_timecode": "1:21:43 - 1:29:02", 
+  "locality": "Jerusalem; Old City; Lutheran Church of the Redeemer", 
+  "url": "http://macaulaylibrary.org/audio/141245", 
+  "title": "Sound Effects", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "Israel Yerushalayim"
+}

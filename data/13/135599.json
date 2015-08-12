@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "6.97701 125.36564", 
+  "microphones": "Telinga Pro 8", 
+  "elevation": "878 meters", 
+  "locality": "50.0 km SSW of Davao. Mount Apo National Park.", 
+  "url": "http://macaulaylibrary.org/audio/135599", 
+  "title": "Coleto", 
+  "recorders": "NAGRA ARES-BB+", 
+  "accessories": "Telinga Parabola 54.7cm/15.5cm (21.5in/6.1in)", 
+  "channels": "Stereo", 
+  "equipment_note": "Low cut filter engaged on Telinga Pro 8.", 
+  "bit_depth": "24-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Philippines Davao del Sur"
+}

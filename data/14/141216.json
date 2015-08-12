@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "17.24667 -90.29306", 
+  "locality": "Las Guacamayas Biological Research Station", 
+  "url": "http://macaulaylibrary.org/audio/141216", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Decoded MS stereo; Split track", 
+  "bit_depth": "16-bit", 
+  "habitats": "River", 
+  "sampling_rate": "48kHz", 
+  "geography": "Guatemala Pet\u00e9n"
+}

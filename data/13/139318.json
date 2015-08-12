@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "23.76722 -76.09556", 
+  "locality": "Lee Stocking Island", 
+  "url": "http://macaulaylibrary.org/audio/139318", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Ocean", 
+  "sampling_rate": "48kHz", 
+  "geography": "Bahamas Exuma and Black Point"
+}

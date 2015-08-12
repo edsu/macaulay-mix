@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "36.39889 -105.7225", 
+  "features": "Canyon", 
+  "locality": "Rio Grande; Taos Box; near Dead Car rapid", 
+  "url": "http://macaulaylibrary.org/audio/139380", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Spaced Omni Stereo recoded with BK 4006 Omni mics", 
+  "bit_depth": "16-bit", 
+  "habitats": "River", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States New Mexico Taos County"
+}

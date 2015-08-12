@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "31.77844 35.22975", 
+  "recording_timecode": "1:00:49 - 1:17:19", 
+  "locality": "Church of the Holy Sepulchre", 
+  "url": "http://macaulaylibrary.org/audio/141248", 
+  "title": "Interview", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Split track; Spaced Omni Stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "Israel Yerushalayim"
+}

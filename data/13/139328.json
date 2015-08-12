@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "42.35902 -71.05068", 
+  "locality": "Boston; New England Aquarium", 
+  "url": "http://macaulaylibrary.org/audio/139328", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Massachusetts Suffolk County"
+}

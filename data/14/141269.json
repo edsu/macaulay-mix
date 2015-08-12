@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "-11.88806 -71.40667", 
+  "microphones": "Sennheiser MKH 50", 
+  "recording_timecode": "20:26 - 21:34", 
+  "locality": "Manu National Park; Manu River; Upriver from Cocha Cashu Biological Station", 
+  "url": "http://macaulaylibrary.org/audio/141269", 
+  "title": "Sound Effects", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH50 Hypercardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax Preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "habitats": "Rainforest", 
+  "sampling_rate": "48kHz", 
+  "geography": "Peru Madre de Dios"
+}

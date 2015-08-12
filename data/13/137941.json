@@ -1,0 +1,16 @@
+{
+  "latitude/longitude": "48.91944 -114.40722", 
+  "microphones": "Sennheiser MKH 30", 
+  "elevation": "1085 meters", 
+  "recording_timecode": "44:04 - 2:06:21", 
+  "locality": "24.0 km N of Polebridge; Trailcreek; near Diane Boyd's cabin", 
+  "url": "http://macaulaylibrary.org/audio/137941", 
+  "title": "Environmental Recording", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Decoded MS stereo; Sennheiser MKH50 Hypercardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax SX-P2 Preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "habitats": "Coniferous Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Montana Flathead County"
+}

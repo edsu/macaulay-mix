@@ -1,0 +1,10 @@
+{
+  "latitude/longitude": "30.59972 -176.56778", 
+  "title": "Environmental Recording", 
+  "url": "http://macaulaylibrary.org/audio/139346", 
+  "channels": "Mono", 
+  "equipment_note": "Mono=2: 1=L, 2=R; Mono", 
+  "bit_depth": "16-bit", 
+  "habitats": "Ocean", 
+  "sampling_rate": "48kHz"
+}

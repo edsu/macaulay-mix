@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "47.6748875 -111.3104725", 
+  "microphones": "Sennheiser MKH 20", 
+  "elevation": "1100 meters", 
+  "locality": "18.0 km N of Great Falls. Benton Lake National Wildlife Refuge", 
+  "url": "http://macaulaylibrary.org/audio/139486", 
+  "title": "Brewer's Blackbird", 
+  "recorders": "NAGRA ARES-BB+", 
+  "accessories": "Telinga Parabola 54.7cm/15.5cm (21.5in/6.1in)", 
+  "channels": "Mono", 
+  "equipment_note": "", 
+  "bit_depth": "24-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Montana Cascade County"
+}

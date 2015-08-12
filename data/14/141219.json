@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "34.02 -119.54028", 
+  "recording_timecode": "1:39:19 - 1:41:19", 
+  "locality": "Santa Cruz Island; Smugglers Cove", 
+  "url": "http://macaulaylibrary.org/audio/141219", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Decoded MS stereo; Spaced Omni Stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Ocean", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California Santa Barbara County"
+}

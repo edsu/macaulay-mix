@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "31.77694 35.23111", 
+  "recording_timecode": "38:26 - 1:49:00", 
+  "locality": "Jerusalem; Old City", 
+  "url": "http://macaulaylibrary.org/audio/141251", 
+  "title": "Interview", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Split track; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "Israel Yerushalayim"
+}

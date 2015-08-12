@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "-13.47139 48.34889", 
+  "features": "Island", 
+  "locality": "Nosy Komba", 
+  "url": "http://macaulaylibrary.org/audio/138404", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Madagascar Antsiranana"
+}

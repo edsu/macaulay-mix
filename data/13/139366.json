@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "19.43274 -99.13325", 
+  "microphones": "Sennheiser MKH 40", 
+  "recording_timecode": "56:03 - 1:36:38", 
+  "locality": "Mexico City", 
+  "url": "http://macaulaylibrary.org/audio/139366", 
+  "title": "Environmental Recording", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax Preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Mexico Distrito Federal"
+}

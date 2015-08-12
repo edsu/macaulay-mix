@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "28.2 -177.35", 
+  "features": "Island", 
+  "title": "Laysan Albatross", 
+  "url": "http://macaulaylibrary.org/audio/137974", 
+  "recorders": "SONY TCD-D10 PRO II", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser mics", 
+  "bit_depth": "16-bit", 
+  "habitats": "Lagoon", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Minor Outlying Islands Midway Islands"
+}

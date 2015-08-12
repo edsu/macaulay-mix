@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "36.96333 -122.01917", 
+  "features": "Beach", 
+  "recording_timecode": "1:12:12 - 1:29:51", 
+  "locality": "north of Santa Cruz; Rocks above sea", 
+  "url": "http://macaulaylibrary.org/audio/139394", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Spaced Omni Stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California Santa Cruz County"
+}

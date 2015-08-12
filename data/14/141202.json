@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "36.80221 -121.78803", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Monterey Bay Aquarium Research Institute", 
+  "url": "http://macaulaylibrary.org/audio/141202", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California Monterey County"
+}

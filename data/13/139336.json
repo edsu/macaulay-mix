@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "37.75049 -122.75165", 
+  "recording_timecode": "19:52 - 1:39:14", 
+  "locality": "24.0 km W of San Francisco; Gulf of the Farallones National Marine Sanctuary", 
+  "url": "http://macaulaylibrary.org/audio/139336", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Ocean", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California San Francisco County"
+}

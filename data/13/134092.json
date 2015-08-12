@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "42.437342 -76.478338", 
+  "microphones": "Sennheiser MKH 106", 
+  "elevation": "239 meters", 
+  "locality": "Ithaca; roof of Belle Sherman School", 
+  "url": "http://macaulaylibrary.org/audio/134092", 
+  "title": "Chimney Swift", 
+  "recorders": "NAGRA IV-SD", 
+  "accessories": "Sennheiser BP-2 power module", 
+  "channels": "Stereo", 
+  "equipment_note": "Nagra IV-SD in Music and Low Frequency Attentuation (M and LFA) and Stereo High Sensitivity (STHS) settings. An X-Y pair of Sennheiser MKH 106T omnidirectional microphones on a stereo bar were hoisted up to the very edge of the chimney. Two Sennheiser BP2 power modules set in Cut (low frequency attenuation) mode were used to power the microphones.", 
+  "geography": "United States New York Tompkins County"
+}

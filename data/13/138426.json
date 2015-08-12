@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "41.41667 -101.2", 
+  "features": "Ravine", 
+  "recording_timecode": "1:17:42 - 1:55:31", 
+  "locality": "Old Growler; Tributary to South Fork Birdwood Creek", 
+  "url": "http://macaulaylibrary.org/audio/138426", 
+  "title": "Sandhill Crane", 
+  "recorders": "SONY TCD-D10", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Neumann RSM 190", 
+  "bit_depth": "16-bit", 
+  "habitats": "Riparian", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Nebraska McPherson County"
+}

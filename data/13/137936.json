@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "48.78278 -114.27944", 
+  "elevation": "1085 meters", 
+  "features": "Burn", 
+  "locality": "Glacier National Park; near Polebridge Ranger Station", 
+  "url": "http://macaulaylibrary.org/audio/137936", 
+  "title": "Sound Effects", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Twin-Omni Stereo recoded with BK 4006 Omni mics through Sonosax SX-P2 Preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "habitats": "Coniferous Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Montana Flathead County"
+}

@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "39.6169174 -120.4913762", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Yuba Pass", 
+  "url": "http://macaulaylibrary.org/audio/138595", 
+  "title": "Northern Pygmy-Owl", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "MS stereo decoded in soundBlade. MKH 20/30 place about 12 feet from cavity.", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California Sierra County"
+}

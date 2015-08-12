@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "28.2 -177.35", 
+  "features": "Island", 
+  "locality": "near Midway Islands", 
+  "url": "http://macaulaylibrary.org/audio/139345", 
+  "title": "Interview", 
+  "channels": "Mono", 
+  "equipment_note": "Mono=2: 1=L, 2=R; Mono", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Minor Outlying Islands Midway Islands"
+}

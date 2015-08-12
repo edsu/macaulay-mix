@@ -1,0 +1,13 @@
+{
+  "microphones": "Sennheiser MKH 20", 
+  "locality": "8.0 km NE of Ithaca; Ringwood Preserve.", 
+  "url": "http://macaulaylibrary.org/audio/138567", 
+  "title": "Spring Peeper", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "MS stereo recording decoded in soundBlade.mf", 
+  "bit_depth": "16-bit", 
+  "habitats": "Wetland", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States New York Tompkins County"
+}

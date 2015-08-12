@@ -1,0 +1,16 @@
+{
+  "latitude/longitude": "18.52235 -95.1475167", 
+  "elevation": "1180 meters", 
+  "features": "Thicket/Brush", 
+  "locality": "11.0 km NE of San Andres Tuxtla; Sierra de Los Tuxtlas", 
+  "url": "http://macaulaylibrary.org/audio/131227", 
+  "title": "White-breasted Wood-Wren", 
+  "recorders": "NAGRA ARES-BB+", 
+  "accessories": "Telinga Parabola 54.7cm/15.5cm (21.5in/6.1in)", 
+  "channels": "Stereo", 
+  "equipment_note": "Captured in real time A/D using Sound Devices 744T.", 
+  "bit_depth": "24-bit", 
+  "habitats": "Evergreen Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "Mexico Veracruz"
+}

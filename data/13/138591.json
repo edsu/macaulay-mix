@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "39.6474472 -120.515726", 
+  "microphones": "Sennheiser MKH 40", 
+  "locality": "Chapman's Saddle; meadow just NW of the intersection of Forest Service Road 09 and the road to Bear Trap Meadow", 
+  "url": "http://macaulaylibrary.org/audio/138591", 
+  "title": "Pacific Chorus Frog", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "MS stereo recording decoded in soundBlade during archival.", 
+  "bit_depth": "16-bit", 
+  "habitats": "Coniferous Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California Sierra County"
+}

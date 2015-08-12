@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "9.16502 -79.83686", 
+  "microphones": "Sennheiser MKH 40", 
+  "features": "Island", 
+  "locality": "Barro Colorado Island; Smithsonian Tropical Research Institute (STRI)", 
+  "url": "http://macaulaylibrary.org/audio/138436", 
+  "title": "Interview", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Panama Panam\u00e1"
+}

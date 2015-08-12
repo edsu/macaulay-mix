@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "48.3857 -124.72592", 
+  "features": "Island", 
+  "recording_timecode": "1:35:17 - 1:36:30", 
+  "locality": "Cape Flattery", 
+  "url": "http://macaulaylibrary.org/audio/138477", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Spaced Omni Stereo recoded with BK 4006 Omni mics", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Washington Clallam County"
+}

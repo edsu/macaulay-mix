@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "5.88333 -162.08333", 
+  "microphones": "Sennheiser MKH 40", 
+  "features": "Island", 
+  "locality": "Far east lagoon", 
+  "url": "http://macaulaylibrary.org/audio/137975", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Omnis", 
+  "bit_depth": "16-bit", 
+  "habitats": "Ocean", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Minor Outlying Islands Palmyra Atoll"
+}

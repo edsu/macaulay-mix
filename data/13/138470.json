@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "37.96333 -75.29667", 
+  "features": "Beach", 
+  "locality": "Assateague Island; Chincoteague National Wildlife Refuge; Wash Flats", 
+  "url": "http://macaulaylibrary.org/audio/138470", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Virginia Accomack County"
+}

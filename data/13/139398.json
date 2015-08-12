@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "35.66389 -121.25944", 
+  "features": "Beach", 
+  "locality": "Piedras Blancas", 
+  "url": "http://macaulaylibrary.org/audio/139398", 
+  "title": "Northern Elephant Seal", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California San Luis Obispo County"
+}

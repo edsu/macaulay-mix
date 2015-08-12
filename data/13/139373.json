@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "-0.29639 -91.36056", 
+  "microphones": "Sennheiser MKH 30", 
+  "features": "Island", 
+  "locality": "Galapagos Islands; Isabela Island; Urvina Bay", 
+  "url": "http://macaulaylibrary.org/audio/139373", 
+  "title": "Sound Effects", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax Preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "Ecuador Gal\u00e1pagos"
+}

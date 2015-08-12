@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "8.99708 -79.59187", 
+  "microphones": "Sennheiser MKH 30", 
+  "recording_timecode": "5:57 - 37:50", 
+  "locality": "Panama Canal; Miraflores Visitors Center", 
+  "url": "http://macaulaylibrary.org/audio/138447", 
+  "title": "Interview", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "Panama Panam\u00e1"
+}

@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "48.76528 -114.285", 
+  "features": "Roadside", 
+  "recording_timecode": "1:17:37 - 1:46:10", 
+  "locality": "South of Polebridge", 
+  "url": "http://macaulaylibrary.org/audio/137938", 
+  "title": "Interview", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Twin-Omni Stereo recoded with BK 4006 Omni mics through Sonosax SX-P2 Preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "habitats": "Coniferous Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Montana Flathead County"
+}

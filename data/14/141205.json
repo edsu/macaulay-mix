@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "36.60889 -121.89111", 
+  "microphones": "Sennheiser MKH 40", 
+  "locality": "Monterey; Coast Guard Pier", 
+  "url": "http://macaulaylibrary.org/audio/141205", 
+  "title": "Sound Effects", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California Monterey County"
+}

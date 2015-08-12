@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "-64.6776749 -62.6021576", 
+  "microphones": "Sennheiser MKH 20", 
+  "features": "Island", 
+  "locality": "Cuverville Island", 
+  "url": "http://macaulaylibrary.org/audio/141365", 
+  "title": "Gentoo Penguin", 
+  "recorders": "MARANTZ PMD 661", 
+  "channels": "Stereo", 
+  "equipment_note": "ms decoded in soundBlade", 
+  "bit_depth": "24-bit", 
+  "habitats": "Polar", 
+  "sampling_rate": "48kHz", 
+  "geography": "Antarctica"
+}

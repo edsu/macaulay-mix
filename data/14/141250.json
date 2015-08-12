@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "31.77694 35.23111", 
+  "locality": "Jerusalem; Old City", 
+  "url": "http://macaulaylibrary.org/audio/141250", 
+  "title": "Sound Effects", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Split track; Spaced Omni Stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "Israel Yerushalayim"
+}

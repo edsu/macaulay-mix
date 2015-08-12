@@ -1,0 +1,16 @@
+{
+  "latitude/longitude": "50.9804667 -56.845", 
+  "microphones": "Sennheiser MKH 20", 
+  "elevation": "125 meters", 
+  "features": "Second-growth", 
+  "locality": "15.0 km S of Plum Point; Newfoundland", 
+  "url": "http://macaulaylibrary.org/audio/133394", 
+  "title": "Pine Grosbeak", 
+  "recorders": "NAGRA ARES-BB+", 
+  "channels": "Mono", 
+  "equipment_note": "Parabola: 30 clear plastic cut-off.", 
+  "bit_depth": "24-bit", 
+  "habitats": "Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "Canada Newfoundland and Labrador"
+}

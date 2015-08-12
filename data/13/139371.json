@@ -1,0 +1,16 @@
+{
+  "latitude/longitude": "-0.26583 -91.44694", 
+  "microphones": "Sennheiser MKH 30", 
+  "features": "Island", 
+  "recording_timecode": "55:23 - 1:50:50", 
+  "locality": "Galapagos Islands; Fernandina Island; Punta Espinoza", 
+  "url": "http://macaulaylibrary.org/audio/139371", 
+  "title": "short-finned pilot whale", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax Preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "Ecuador Gal\u00e1pagos"
+}

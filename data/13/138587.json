@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "42.3745752 -76.6568899", 
+  "microphones": "Sennheiser MKH 20", 
+  "locality": "Connecticut Hill Wildlife Management Area. Large pond near intersection of Conn Hill and Boylan Rds", 
+  "url": "http://macaulaylibrary.org/audio/138587", 
+  "title": "Ring-necked Duck", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "MS stereo original was decoded via SoundBlade when archived.", 
+  "bit_depth": "16-bit", 
+  "habitats": "Deciduous Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States New York Tompkins County"
+}

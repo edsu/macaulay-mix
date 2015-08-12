@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "-13.33333 48.25", 
+  "features": "Island", 
+  "locality": "Nosy Be", 
+  "url": "http://macaulaylibrary.org/audio/138408", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Omnis", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "Madagascar Antsiranana"
+}

@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "48.39183 -124.73568", 
+  "features": "Island", 
+  "recording_timecode": "22:54 - 47:02", 
+  "locality": "near Tatoosh Island", 
+  "url": "http://macaulaylibrary.org/audio/138483", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Ocean", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Washington Clallam County"
+}

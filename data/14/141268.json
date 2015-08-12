@@ -1,0 +1,16 @@
+{
+  "latitude/longitude": "-11.7277778 -71.6544444", 
+  "microphones": "Sennheiser MKH 30", 
+  "features": "Bank", 
+  "recording_timecode": "8:55 - 1:58:38", 
+  "locality": "Manu National Park; Tayakome village", 
+  "url": "http://macaulaylibrary.org/audio/141268", 
+  "title": "Red-and-green Macaw", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Decoded MS stereo; Sennheiser MKH50 Hypercardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax SX-M2 mic preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "habitats": "Rainforest", 
+  "sampling_rate": "48kHz", 
+  "geography": "Peru Madre de Dios"
+}

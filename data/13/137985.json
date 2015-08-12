@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "55.45083 -114.82533", 
+  "microphones": "Sennheiser MKH 40", 
+  "locality": "Lesser Slave Lake Provincial Park", 
+  "url": "http://macaulaylibrary.org/audio/137985", 
+  "title": "Red-eyed Vireo", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic", 
+  "bit_depth": "16-bit", 
+  "habitats": "Lake", 
+  "sampling_rate": "48kHz", 
+  "geography": "Canada Alberta"
+}

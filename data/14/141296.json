@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "24.6567639 -82.9508194", 
+  "elevation": "0 meters", 
+  "recording_timecode": "4:25 - 1:10:01", 
+  "locality": "Dry Tortugas National Park", 
+  "url": "http://macaulaylibrary.org/audio/141296", 
+  "title": "Sound Effects", 
+  "recorders": "SONY TCD-D8", 
+  "channels": "Stereo", 
+  "equipment_note": "Decoded MS stereo; Neumann RSM-190 through Sonosax preamp into Sony TCD-D8", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Florida Monroe County"
+}

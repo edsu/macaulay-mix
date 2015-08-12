@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "20.87194 -156.72694", 
+  "microphones": "Sennheiser MKH 40", 
+  "locality": "7.0 km W of Lahaina; aboard the boat Nuki", 
+  "url": "http://macaulaylibrary.org/audio/141243", 
+  "title": "Interview", 
+  "recorders": "SONY TCD-D10 PRO II", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic into Sony TCD10 Pro 2", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Hawaii Maui County"
+}

@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "30.04722 31.26306", 
+  "recording_timecode": "51:09 - 58:13", 
+  "locality": "Cairo; El-Fishawi Cafe", 
+  "url": "http://macaulaylibrary.org/audio/138421", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Neumann RSM 190; Spaced Omnis", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "Egypt Al Qahirah"
+}

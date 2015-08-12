@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "1.38611 -91.81972", 
+  "microphones": "Sennheiser MKH 30", 
+  "features": "Island", 
+  "locality": "Galapagos Islands; Wolf Island", 
+  "url": "http://macaulaylibrary.org/audio/139368", 
+  "title": "Environmental Recording", 
+  "recorders": "SONY TCD-D10", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Dual-Channel Mono; Neumann KMR 81; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic into Sony TCD10", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "Ecuador Gal\u00e1pagos"
+}

@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "-0.284 -90.548", 
+  "features": "Island", 
+  "recording_timecode": "59:48 - 1:33:29", 
+  "locality": "Galapagos Islands; Bartolome Island", 
+  "url": "http://macaulaylibrary.org/audio/139375", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Stereo hydrophones; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "Ecuador Gal\u00e1pagos"
+}

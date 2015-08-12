@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "20.76431 -156.45928", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Kihei; Hawaiian Islands Humpback Whale National Marine Sanctuary Maui Headquarters Office", 
+  "url": "http://macaulaylibrary.org/audio/141237", 
+  "title": "Interview", 
+  "recorders": "SONY TCD-D10 PRO II", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic into Sony TCD10 Pro 2", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Hawaii Maui County"
+}

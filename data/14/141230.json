@@ -1,0 +1,11 @@
+{
+  "latitude/longitude": "42.35 -70.5", 
+  "locality": "Stellwagen Bank National Marine Sanctuary", 
+  "url": "http://macaulaylibrary.org/audio/141230", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax Preamp into Sony TCD3", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Massachusetts"
+}

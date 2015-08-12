@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "41.52446 -70.67094", 
+  "recording_timecode": "1:29:23 - 2:00:22", 
+  "locality": "Woods Hole", 
+  "url": "http://macaulaylibrary.org/audio/139326", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Omnis; BK 4006 Omni mics", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Massachusetts Barnstable County"
+}

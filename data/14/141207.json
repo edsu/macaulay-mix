@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "38.88678 -77.00491", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Washington, D.C.; Library of Congress Map Room", 
+  "url": "http://macaulaylibrary.org/audio/141207", 
+  "title": "Interview", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States District of Columbia"
+}

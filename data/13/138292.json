@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "37.0716667 -106.8986111", 
+  "elevation": "2243 meters", 
+  "locality": "421 Stallion Place: Sander's home.", 
+  "url": "http://macaulaylibrary.org/audio/138292", 
+  "title": "rosy-finch sp.", 
+  "channels": "Stereo", 
+  "equipment_note": "MS stereo, decoded via soundBlade non-DSP decoding.", 
+  "bit_depth": "24-bit", 
+  "sampling_rate": "96kHz", 
+  "geography": "United States Colorado Archuleta County"
+}

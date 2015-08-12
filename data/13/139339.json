@@ -1,0 +1,16 @@
+{
+  "latitude/longitude": "28.2075 -177.37583", 
+  "microphones": "Sennheiser MKH 30", 
+  "features": "Island", 
+  "recording_timecode": "57:30 - 1:35:34", 
+  "locality": "Sand Island", 
+  "url": "http://macaulaylibrary.org/audio/139339", 
+  "title": "Interview", 
+  "recorders": "SONY TCD-D10 PRO II", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser mics", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Minor Outlying Islands Midway Islands"
+}

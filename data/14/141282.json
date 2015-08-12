@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "27.5 -120.0", 
+  "locality": "Channel Islands National Marine Sanctuary", 
+  "url": "http://macaulaylibrary.org/audio/141282", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Stereo hydrophones", 
+  "bit_depth": "16-bit", 
+  "habitats": "Ocean", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California Santa Barbara County"
+}

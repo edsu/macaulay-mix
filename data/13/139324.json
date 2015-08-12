@@ -1,0 +1,11 @@
+{
+  "latitude/longitude": "25.06667 -77.33333", 
+  "title": "Environmental Recording", 
+  "url": "http://macaulaylibrary.org/audio/139324", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Split track; Stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Ocean", 
+  "sampling_rate": "48kHz", 
+  "geography": "Bahamas"
+}

@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "31.775 35.24444", 
+  "recording_timecode": "42:25 - 1:27:04", 
+  "locality": "Jerusalem; Mount of Olives", 
+  "url": "http://macaulaylibrary.org/audio/141249", 
+  "title": "Interview", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Split track; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "Israel Yerushalayim"
+}

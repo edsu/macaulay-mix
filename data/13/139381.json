@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "37.46889 -105.87361", 
+  "recording_timecode": "1:23:57 - 1:53:29", 
+  "locality": "Alamosa", 
+  "url": "http://macaulaylibrary.org/audio/139381", 
+  "title": "Sound Effects", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; XY Stereo, Neuman RSM190; Spaced Omni Stereo, Beyer M58; Spaced Omni Stereo, BK 4006 Omni mics; Split track, Neumann KMR 81", 
+  "bit_depth": "16-bit", 
+  "habitats": "Rural", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Colorado Alamosa County"
+}

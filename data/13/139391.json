@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "35.26139 -75.20194", 
+  "locality": "29.0 km E of Cape Hatteras", 
+  "url": "http://macaulaylibrary.org/audio/139391", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States North Carolina"
+}

@@ -1,0 +1,11 @@
+{
+  "title": "Environmental Recording", 
+  "url": "http://macaulaylibrary.org/audio/139330", 
+  "recorders": "SONY TCD-D3", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Ocean", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Massachusetts"
+}

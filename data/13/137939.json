@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "48.76528 -114.285", 
+  "microphones": "Sennheiser MKH 30", 
+  "features": "Roadside", 
+  "locality": "South of Polebridge", 
+  "url": "http://macaulaylibrary.org/audio/137939", 
+  "title": "Interview", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Twin-Omni Stereo recoded with BK 4006 Omni mics through Sonosax SX-P2 Preamp into Sony TCD7; Decoded MS stereo; Sennheiser MKH50 Hypercardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax SX-P2 Preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "habitats": "Coniferous Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Montana Flathead County"
+}

@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "-64.2990827 -56.7831116", 
+  "microphones": "Sennheiser MKH 20", 
+  "features": "Bank", 
+  "locality": "Devil Island", 
+  "url": "http://macaulaylibrary.org/audio/141361", 
+  "title": "Adelie Penguin", 
+  "recorders": "MARANTZ PMD 661", 
+  "channels": "Stereo", 
+  "equipment_note": "decoded ms in soundBlade", 
+  "bit_depth": "24-bit", 
+  "habitats": "Polar", 
+  "sampling_rate": "48kHz", 
+  "geography": "Antarctica"
+}

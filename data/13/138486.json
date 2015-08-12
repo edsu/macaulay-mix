@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "-43.06065 147.86473", 
+  "recording_timecode": "55:32 - 2:05:25", 
+  "locality": "Taranna; Tasmanian Devil Conservation Park", 
+  "url": "http://macaulaylibrary.org/audio/138486", 
+  "title": "Tasmanian Devil", 
+  "recorders": "SONY TCD-D10", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=2: 1=L, 2=R; Decoded MS stereo; Sennheiser mics", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Australia Tasmania"
+}

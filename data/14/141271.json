@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "-12.33167 -70.74528", 
+  "microphones": "Sennheiser MKH 30", 
+  "recording_timecode": "1:02:40 - 1:42:36", 
+  "locality": "Manu National Park; Manu Wildlife Center", 
+  "url": "http://macaulaylibrary.org/audio/141271", 
+  "title": "Giant Otter", 
+  "recorders": "SONY TCD-D7", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH50 Hypercardioid Mid Mic and MKH30 Bidirectional Side Mic through Sonosax Preamp into Sony TCD7", 
+  "bit_depth": "16-bit", 
+  "habitats": "Rainforest", 
+  "sampling_rate": "48kHz", 
+  "geography": "Peru Madre de Dios"
+}

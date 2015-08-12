@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "5.88333 -162.08333", 
+  "microphones": "Sennheiser MKH 30", 
+  "features": "Island", 
+  "recording_timecode": "1:22 - 10:05", 
+  "locality": "Eastern Island; Southern section", 
+  "url": "http://macaulaylibrary.org/audio/137994", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Lagoon", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Minor Outlying Islands Palmyra Atoll"
+}

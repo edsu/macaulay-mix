@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "26.1375 -98.33528", 
+  "recording_timecode": "1:30:23 - 1:38:17", 
+  "locality": "Anzalduas Dam", 
+  "url": "http://macaulaylibrary.org/audio/139387", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Spaced Omni Stereo recoded with BK 4006 Omni mics", 
+  "bit_depth": "16-bit", 
+  "habitats": "River", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Texas Hidalgo County"
+}

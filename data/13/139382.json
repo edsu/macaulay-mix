@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "37.43611 -106.59778", 
+  "features": "Waste Site", 
+  "recording_timecode": "1:36:28 - 1:38:50", 
+  "locality": "Summitville Mine", 
+  "url": "http://macaulaylibrary.org/audio/139382", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Spaced Omni Stereo recoded with BK 4006 Omni mics; XY Stereo, Neumann RSM 190; Split track, Neumann KMR 81; Stereo, Neumann KMR 81", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Colorado Rio Grande County"
+}

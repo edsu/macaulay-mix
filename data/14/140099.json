@@ -1,0 +1,15 @@
+{
+  "latitude/longitude": "44.4945935 -74.4352323", 
+  "microphones": "Sennheiser ME 64", 
+  "elevation": "530 meters", 
+  "locality": "Town of Santa Clara; St. Regis River; Indian Rock", 
+  "url": "http://macaulaylibrary.org/audio/140099", 
+  "title": "Pine Warbler", 
+  "recorders": "MARANTZ PMD 670", 
+  "channels": "Stereo", 
+  "equipment_note": "XY Stereo with two Sennheiser ME 64 microphones.", 
+  "bit_depth": "16-bit", 
+  "habitats": "Mixed Coniferous/Deciduous", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States New York Franklin County"
+}

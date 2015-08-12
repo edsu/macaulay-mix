@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "55.45083 -114.82533", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Lesser Slave Lake Provincial Park; Mill Creek ravine", 
+  "url": "http://macaulaylibrary.org/audio/137984", 
+  "title": "Interview", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH40 Cardioid Mid Mic and MKH30 Bidirectional Side Mic", 
+  "bit_depth": "16-bit", 
+  "habitats": "Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "Canada Alberta"
+}

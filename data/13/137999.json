@@ -1,0 +1,14 @@
+{
+  "latitude/longitude": "55.18514 -113.35693", 
+  "microphones": "Sennheiser MKH 30", 
+  "locality": "Calling Lake", 
+  "url": "http://macaulaylibrary.org/audio/137999", 
+  "title": "Interview", 
+  "recorders": "HHB PORTADAT PDR 1000", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Sennheiser MKH50 Hypercardioid Mid Mic and MKH30 Bidirectional Side Mic", 
+  "bit_depth": "16-bit", 
+  "habitats": "Forest", 
+  "sampling_rate": "48kHz", 
+  "geography": "Canada Alberta"
+}

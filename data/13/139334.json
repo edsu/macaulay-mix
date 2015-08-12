@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "36.01556 -114.73778", 
+  "recording_timecode": "46:52 - 1:55:44", 
+  "locality": "Hoover Dam", 
+  "url": "http://macaulaylibrary.org/audio/139334", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Stereo; Neumann RSM 190", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States Nevada Clark County"
+}

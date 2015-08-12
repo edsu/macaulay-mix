@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "30.04583 31.2625", 
+  "recording_timecode": "28:43 - 1:01:50", 
+  "locality": "Cairo; Al-Azhar University and Mosque", 
+  "url": "http://macaulaylibrary.org/audio/138422", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo; Neumann RSM 190; Spaced Omnis", 
+  "bit_depth": "16-bit", 
+  "habitats": "Urban", 
+  "sampling_rate": "48kHz", 
+  "geography": "Egypt Al Qahirah"
+}

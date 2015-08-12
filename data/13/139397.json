@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "37.13306 -122.33306", 
+  "features": "Beach", 
+  "locality": "A\u00f1o Nuevo State Reserve", 
+  "url": "http://macaulaylibrary.org/audio/139397", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "habitats": "Marine Shoreline", 
+  "sampling_rate": "48kHz", 
+  "geography": "United States California San Mateo County"
+}

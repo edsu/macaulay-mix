@@ -1,0 +1,13 @@
+{
+  "latitude/longitude": "30.46667 30.26667", 
+  "recording_timecode": "35:49 - 1:29:46", 
+  "locality": "Wadi El-Natrun", 
+  "url": "http://macaulaylibrary.org/audio/138417", 
+  "title": "Interview", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Split track; Decoded MS stereo using Neumann SM-69; Spaced Omnis using Neumann KM-83", 
+  "bit_depth": "16-bit", 
+  "habitats": "Desert", 
+  "sampling_rate": "48kHz", 
+  "geography": "Egypt Al Buhayrah"
+}

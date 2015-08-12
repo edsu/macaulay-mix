@@ -1,0 +1,12 @@
+{
+  "latitude/longitude": "27.7 83.45", 
+  "recording_timecode": "1:03:00 - 1:07:34", 
+  "locality": "Butwal", 
+  "url": "http://macaulaylibrary.org/audio/141286", 
+  "title": "Environmental Recording", 
+  "channels": "Stereo", 
+  "equipment_note": "Stereo=1; Spaced Omni Stereo; DPA 4060 Omnidirectional Microphones; Decoded MS stereo", 
+  "bit_depth": "16-bit", 
+  "sampling_rate": "48kHz", 
+  "geography": "Nepal Pashchimanchal"
+}
