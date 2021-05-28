@@ -86,7 +86,7 @@
       function changeTrack(trackId) {
         var audioId = Math.floor(Math.random() * maxId);
         var prefix = Math.floor(audioId / 10000);
-        var url = "http://animalrecordings.org/Audio/" + prefix + "/" + audioId + ".mp3";
+        var url = `https://cdn.download.ams.birds.cornell.edu/api/v1/asset/${audioId}/audio`;
         console.log(url);
 
         var a = document.createElement("audio");
