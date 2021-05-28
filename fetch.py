@@ -4,6 +4,11 @@
 For collecting information about audio available from the Macaulay Library.
 This script and the data directory could be removed if they offered an 
 API of some kind that provides json-p or CORS access.
+
+Note: scraping is no longer needed, since the JSON for each recording is
+available at URLs like:
+
+https://macaulaylibrary.org/asset/1.json
 """
 
 import os
